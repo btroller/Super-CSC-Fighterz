@@ -1,0 +1,5 @@
+As a user, I want characters to have multiple attacks, so there is a variety in gameplay.
+
+As an advanced player, I want the opponents to get harder as the game progresses, so that I have a greater sense of accomplishment when I defeat them. 
+
+As a developer, I want to have a a mode where everything is modifiable, so that I can test for edge cases.

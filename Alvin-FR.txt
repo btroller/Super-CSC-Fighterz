@@ -1,0 +1,3 @@
+The system shall provide configurable window size.
+The system shall provide an options menu.
+The system shall provide character selection.
