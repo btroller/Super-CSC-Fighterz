@@ -1,0 +1,4 @@
+The system shall provide an AI mode.
+The system shall provide local multiplayer.
+The system shall provide a single-player mode.
+

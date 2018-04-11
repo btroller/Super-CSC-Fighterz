@@ -1,0 +1,4 @@
+As a user, I want to have a leaderboard system, so that I know how well I am doing relative to others.
+As a user, I want to character information in the GUI, so that I can play the game.
+As a developer, I want the capabilities of each professor to correspond with their specific traits, so that the game is more relatable for our peers. 
+
