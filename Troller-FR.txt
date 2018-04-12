@@ -1,0 +1,6 @@
+The system shall provide stage selection.
+
+The system shall provide players’ health status.
+
+The system shall provide gameplay instructions.
+

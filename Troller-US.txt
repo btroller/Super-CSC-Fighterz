@@ -1,0 +1,6 @@
+As an advanced user, I want characters to have strengths and weaknesses, so that I can create my own strategies.
+
+As a user, I want there to be an indication of my player’s health visible on the screen, so that I can play strategically in an effort to win.
+
+As a user, I want the game to display the controls when the game starts, so that I know how to play once the game begins.
+
