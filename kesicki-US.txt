@@ -1,0 +1,6 @@
+As a player, I want the game to have an age rating, so that I know who I can share the game with
+
+As a colorblind person, I want colorblind modes, so I can see the proper colors.
+
+As a player, I want the game to run on multiple operating systems, so that I can play it regardless of what computer I own
+

@@ -1,0 +1,6 @@
+The system shall provide a main menu*.
+
+The system shall provide a credits screen.
+
+The system shall provide battle sound effects.
+
