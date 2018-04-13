@@ -1,0 +1,3 @@
+1. As a player, I want a splash screen with animations, to get me excited to play the game
+2. As a fan, I want a credits screen, so I can thank the creators
+3. As a player, I want the game to have easter eggs, so I cn find in game secrets.
