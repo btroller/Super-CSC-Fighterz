@@ -1,0 +1,5 @@
+As a player, I want player characters that I can recognize, so that the gameplay is memorable.
+
+As a gamer, I want gameplay to be animated, so it keeps me interested among all of the other game options out there.
+
+As a player, I want there to be cheat codes, so that I can beat players who are better than me.
