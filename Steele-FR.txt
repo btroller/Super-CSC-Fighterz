@@ -1,0 +1,5 @@
+The system shall provide a user profile*.
+
+The system shall provide character descriptions.
+
+The system shall provide ability selection during the user’s turn.
