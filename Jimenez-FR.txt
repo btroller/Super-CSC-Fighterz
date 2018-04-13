@@ -1,0 +1,3 @@
+The system shall provide unique abilities for each character.
+The system shall provide a leaderboard.
+The system shall provide turn-based combat.
