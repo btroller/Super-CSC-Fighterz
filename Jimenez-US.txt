@@ -1,0 +1,3 @@
+As a player, I want the game to have combos, so that I have combat mechanics to learn.
+As a player, I want to uncover new powers as the game goes on, so that the game  doesn’t get repetitive and potentially boring.
+As a player, I want a story mode, so that I have a reason to play when I am alone.
